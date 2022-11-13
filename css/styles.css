@@ -194,6 +194,17 @@ p {
   height: 200px;
 }
 
+.social-links,
+.twitter,
+.facebook,
+.instagram,
+.linkedin,
+.email,
+.whatsapp {
+  padding: 10px;
+  color: white;
+}
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
@@ -1461,7 +1472,7 @@ progress {
 
   .col-lg-3 {
     flex: 0 0 auto;
-    width: 25%;
+    width: 40%;
   }
 
   .col-lg-4 {
